@@ -35,6 +35,6 @@ int main()
     printf_s("%d", n);
     ngto(n);
     return 0;
-    scanf_s("%d", &m);
+    ////ádâd///áđá/ád
     printf("trannhutkha");
 }
