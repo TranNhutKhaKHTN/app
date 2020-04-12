@@ -30,11 +30,11 @@ void ngto(int& n) {
 
 int main()
 {
-    int n;
+    int n, m;
     nhap(n);
     printf_s("%d", n);
     ngto(n);
     return 0;
-
+    scanf_s("%d", &m);
     printf("trannhutkha");
 }
