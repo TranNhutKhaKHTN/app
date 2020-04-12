@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <math.h>
 
 void nhap(int &n);
@@ -35,6 +35,6 @@ int main()
     printf_s("%d", n);
     ngto(n);
     return 0;
-
+    //để nó trùng
     printf("trannhutkha");
 }
